@@ -1,0 +1,26 @@
+{
+  "name": "nodejs-structure",
+  "version": "1.0.0",
+  "description": "Structure of a NodeJS API Project",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oniag/nodejs-structure.git"
+  },
+  "author": "Niag",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/oniag/nodejs-structure/issues"
+  },
+  "homepage": "https://github.com/oniag/nodejs-structure#readme",
+  "dependencies": {
+    "bcrypt": "^4.0.0",
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^5.9.2"
+  }
+}
